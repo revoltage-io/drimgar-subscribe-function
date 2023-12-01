@@ -1,9 +1,9 @@
 {
   "entrypoints": [
     {
-      "route": "/submit",
+      "route": "/subscribe",
       "method": "POST",
-      "script": "index.ts"
+      "script": "main.ts"
     }
   ]
 }
